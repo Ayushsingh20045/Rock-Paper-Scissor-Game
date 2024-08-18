@@ -1,5 +1,6 @@
 # Rock-Paper-Scissor-Game
 -> Tech: HTML, CSS, JavaScript
+
 -> Features:
 * Simple UI with buttons for Rock, Paper, Scissors
 * Real-time results and score tracking
